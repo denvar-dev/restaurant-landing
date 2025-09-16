@@ -17,7 +17,7 @@ A modern, responsive landing page demo for restaurants or cafés. Designed to sh
 ## 🚀 Live Demo
 
 [View Live Demo →](stunning-swan-627b3b.netlify.app)
-*(Replace this with the actual deployed URL)*
+stunning-swan-627b3b.netlify.app
 
 ---
 
